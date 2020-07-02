@@ -1,0 +1,17 @@
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Bakimcilar.resources
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csprojResolveAssemblyReference.cache
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Tezgahlar.resources
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Kullanilan_Yedek_Parcalar.resources
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Islemler.resources
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Ceza_Ucreti.resources
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Rapor1.resources
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Toplam_Ariza_Sayilari.resources
+c:\users\kmtur\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.rapor2.resources
